@@ -1,0 +1,26 @@
+
+# sctoolkit
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of sctoolkit is to ...
+
+## Installation
+
+You can install the development version of sctoolkit from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("pak")
+pak::pak("lingxibio/sctoolkit")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+``` r
+library(sctoolkit)
+## basic example code
+```
+
